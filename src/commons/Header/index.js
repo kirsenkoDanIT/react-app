@@ -8,7 +8,6 @@ export const Header = props => {
       <NavLink to="/" exact>
         <h1>Logo</h1>
       </NavLink>
-
       <nav>
         <ul>
           <li>
